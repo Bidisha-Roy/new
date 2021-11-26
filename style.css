@@ -108,7 +108,7 @@ body{
  /* -------------- showcase styling------------------------*/
  .showcase-area{
     height: 60vh;
-    background:url("../img/book.jpg");
+    background:url("./book.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
